@@ -1,4 +1,5 @@
-
+## Dashboard Preview
+![Sales Dashboard](dashboard.png.png)
 # Dmart Sales Analysis - Excel Dashboard
 
 ## 📌 Project Objective
